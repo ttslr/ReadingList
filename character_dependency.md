@@ -14,3 +14,7 @@
 - [A Unified Model for Joint Chinese Word Segmentation and Dependency Parsing](https://arxiv.org/abs/1904.04697) in arXiv
 - 
 
+### 1. Character-Level Chinese Dependency Parsing--[ACL2014](https://www.aclweb.org/anthology/P14-1125.pdf)
+
+
+### 2. Neural Character-Level Dependency Parsing for Chinese--[AAAI2018](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17076/16069)
